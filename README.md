@@ -38,5 +38,10 @@
 yarn lint-staged
 ```
 
+#### Update origin
+```javascript
+ git remote set-url origin <origin name>
+```
+
 
 
